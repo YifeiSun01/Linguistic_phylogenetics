@@ -202,9 +202,11 @@ with tab3:
     <p>
     This project is cerated by Yifei Sun as the final project for SI 507 Intermediate Programming at the University of Michigan.
     </p>
+    <p><a href="https://github.com/YifeiSun01/Linguistic_phylogenetics/tree/main">Github link</a></p>
     <p><b>Data Source:</b></p>
     <p><a href="http://www.elinguistics.net/Compare_Languages.aspx">eLinguistics.net</a></p>
     <p><a href="https://www.wikipedia.org/">Wikipedia</a></p>
+    
     """
     st.markdown(text_1, unsafe_allow_html=True)
 
