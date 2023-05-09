@@ -4,6 +4,5 @@ networkx
 matplotlib
 numpy
 scipy
-io
 contextlib
 sys
