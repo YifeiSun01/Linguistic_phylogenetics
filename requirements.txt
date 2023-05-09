@@ -2,7 +2,6 @@ streamlit
 treelib
 networkx
 matplotlib
-itertools
 math
 numpy
 scipy
