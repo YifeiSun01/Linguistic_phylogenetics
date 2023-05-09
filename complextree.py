@@ -749,7 +749,6 @@ def lang_graph(lang_dist_json,lang_list_json,threshold=1):
     from networkx.algorithms import community
     import re
     import matplotlib.pyplot as plt
-    import pydot
     from networkx.drawing.nx_pydot import graphviz_layout
     import itertools
     import math
