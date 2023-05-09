@@ -2,7 +2,6 @@ streamlit
 treelib
 networkx
 matplotlib
-math
 numpy
 scipy
 time
