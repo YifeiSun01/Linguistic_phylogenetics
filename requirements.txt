@@ -1,7 +1,5 @@
 streamlit
-re
 treelib
-collections
 networkx
 matplotlib
 itertools
