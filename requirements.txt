@@ -1,5 +1,4 @@
 treelib
-collections
 networkx
 matplotlib
 itertools
