@@ -1,7 +1,9 @@
-streamlit
 treelib
+collections
 networkx
 matplotlib
+itertools
 numpy
 scipy
-bs4
+io
+contextlib
