@@ -3,4 +3,5 @@ networkx
 matplotlib
 numpy
 scipy
+contextlib
 bs4
