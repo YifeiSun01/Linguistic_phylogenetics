@@ -674,7 +674,6 @@ def show_complex_tree(json,status,start=None,branch=None):
     import matplotlib.pyplot as plt
     import pydot
     from networkx.drawing.nx_pydot import graphviz_layout
-    import itertools
     simplelangTree = creat_simple_tree(json,status,start,branch=branch)
     G = nx.Graph()
     added_list = []
@@ -750,7 +749,6 @@ def lang_graph(lang_dist_json,lang_list_json,threshold=1):
     import re
     import matplotlib.pyplot as plt
     from networkx.drawing.nx_pydot import graphviz_layout
-    import itertools
     import math
     lang_dist = read_from_json(lang_dist_json)
     lang_list = read_from_json(lang_list_json)
